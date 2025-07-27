@@ -1,0 +1,26 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.safetensors
+*.h5
+*.pt
+*.pkl
+
+# Large libraries
+*.dll
+*.lib
+*.bin
+
+# Node modules
+node_modules/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.log
